@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+    section .container-fluid .row .imgcol1 img {
+    display: none;
+    }
+    section .container-fluid .row .imgcol2 img {
+        display: none;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    section .container-fluid .row .imgcol1 img {
+        height: 150px;
+    }
+    section .container-fluid .row .imgcol2 img {
+        height: 130px;
+        margin-left: 25px;
+    }
+  }
