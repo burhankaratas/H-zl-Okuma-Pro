@@ -16,7 +16,7 @@ Projede aşağıdaki başlıca özellikleri öne çıkarmak isterim:
 
 # Kullanılan Teknolojiler
 
-- JavaScript: 31
+- JavaScript: 31%
   ![JavaScript](https://progress-bar.dev/31)
   
 - HTML: 67%
